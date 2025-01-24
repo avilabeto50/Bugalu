@@ -1,0 +1,25 @@
+.header {
+    background-color: #6f42c1; /* Purple color */
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .contact-info p {
+    margin: 0;
+  }
+  
+  .nav-list li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  .btn-primary {
+    background-color: #5a189a; /* Darker purple */
+    border-color: #5a189a;
+  }
+  
