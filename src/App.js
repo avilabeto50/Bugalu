@@ -1,16 +1,18 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
+import Header from './components/Header';
 
 const App = () => {
   return (
-    <Router>
-      <div className="App">
+    <div className="App">
+      <Header/>
+      <Router>
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
-      </div>
-    </Router>
+      </Router>
+    </div>
   );
 };
 
