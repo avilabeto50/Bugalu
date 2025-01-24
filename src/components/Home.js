@@ -9,7 +9,7 @@ const Home = () => {
         <p className="lead">Your journey to mastering dance begins here.</p>
       </header>
       <section className="home-intro my-5">
-        <h2>About Us</h2>
+        <h2>About Uss</h2>
         <p>
           At Bugalu Dance Studio, we are passionate about teaching and celebrating the art of dance. Whether you're a beginner or an experienced dancer, we have classes and workshops to suit your needs.
         </p>
