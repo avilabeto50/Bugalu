@@ -1,11 +1,11 @@
 import React from 'react';
-import './style.css';
+import './Home.css';
 
 const Home = () => {
   return (
     <div className="home">
       <header className="home-header">
-        <h1>Welcome to Bugalu Dance Studio</h1>
+        <h1>Welcome to bugalu</h1>
         <p>Your journey to mastering dance begins here.</p>
       </header>
       <section className="home-intro">
